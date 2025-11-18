@@ -15,14 +15,14 @@ Multiple features are present like Source & Destination City, Arrival & Departur
 11. Price: Target variable stores information of the ticket price.
 
 After cleaning the data and looking at the data and basic of the data the info i looked up was:
-No. of Airlines, with their frequencies of flights
-Flights with different Departure & Arrival Times
-Flights based on Source City & Destination City
-Variation in Ticket Prices with Airlines
-Change in the Ticket Price based on Departure & Arrival Time
-Change in the Ticket Price based on Source & Destination
-Effect on Ticket Price before 1 or 2 days the departure of flights
-Variation in Ticket Price between Economy & Business Class
-Filter the data based on the conditions
-Suppose we want to find out “what will be the Average Price of Vistara airline for a flight from Delhi to Hyderabad in Business Class?"
+1.No. of Airlines, with their frequencies of flights
+2.Flights with different Departure & Arrival Times
+3.Flights based on Source City & Destination City
+4.Variation in Ticket Prices with Airlines
+5.Change in the Ticket Price based on Departure & Arrival Time
+6.Change in the Ticket Price based on Source & Destination
+7.Effect on Ticket Price before 1 or 2 days the departure of flights
+8.Variation in Ticket Price between Economy & Business Class
+9.Filter the data based on the conditions
+10.Suppose we want to find out “what will be the Average Price of Vistara airline for a flight from Delhi to Hyderabad in Business Class?"
 
