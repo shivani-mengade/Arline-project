@@ -1,7 +1,7 @@
-## Airline Project
+# Airline Project
 Here, a Flights Booking Dataset of various Airlines that is a scraped datewise from a website in a structured format. This dataset contains the records of flight travel details between the different cities in India.
 Multiple features are present like Source & Destination City, Arrival & Departure Time, Duration & Price of the flight etc. I will analyse this data with Python in a Jupyter notebook. 
-# The various features of the cleaned dataset are explained below: 
+## The various features of the cleaned dataset are explained below: 
 1. Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines 
 2. Flight: Flight stores information regarding the plane's flight code. It is a categorical feature
 3. Source City: City from which the flight takes off. It is a categorical feature having 6 unique cities 
